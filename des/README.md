@@ -1,0 +1,1 @@
+implementation of the DES algorithm (electronic codebook mode), which is intended for cryptographic transformations.
